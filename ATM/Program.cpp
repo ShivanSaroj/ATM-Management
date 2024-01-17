@@ -1,19 +1,20 @@
+// add required headers
 #include<conio.h>
 #include<iostream>
 #include<string>
 using namespace std;
 
 
-class atm										// class atm 
+class atm   // class atm 
 {
-private:										// private member varibles
+private:										// declaairing data members private for security purpose
 	long int account_No;
 	string name;
 	int PIN;
 	double balance;
 	string mobile_No;
 
-public:											// public member functions
+public:  // public member functions
 
 	// setData function is setting the Data into the private member variables
 	void setData(long int account_No_a, string name_a, int PIN_a, double balance_a, string mobile_No_a)
