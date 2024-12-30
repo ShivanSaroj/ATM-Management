@@ -10,11 +10,6 @@ Tech Stack Used-
 c++
 
 
-Future Improvement-
-Taking Reference of this project can build a full stack web app providing same fuctionalities with frontend and backend.
-   
-
-
 
 Program for ATM management that will provide options for
 1. check balance
